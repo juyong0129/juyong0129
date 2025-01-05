@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juyong0129
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning backend programing
+- 🌱 I’m currently learning backend and deep learning
 - ⚡ Fun fact: I'm much younger than you think!
 
 <!---
